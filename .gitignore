@@ -1,0 +1,6 @@
+.DS_Store
+Gemfile.lock
+pkg/
+.bundle/
+tester*.rb
+.ruby-version
